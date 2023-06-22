@@ -12,5 +12,6 @@ docker pull yazartist/brandefense_staj
 
 docker run -it yazartist/brandefense_staj
 
+Usage video: https://youtu.be/asq4jDb1-Qs
 
 email: ceren.omrak@gmail.com
