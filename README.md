@@ -8,6 +8,8 @@ Write your reddit creds.
 
 Docker usage:
 docker pull yazartist/brandefense_staj
+
+
 docker run -it yazartist/brandefense_staj
 
 
